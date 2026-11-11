@@ -1,0 +1,6 @@
+{
+  "name": "Kala Senja Runtuh: Sisa Nafas Maya",
+  "description": "Konsep game hardcore survival horror tentang kiamat zombie spora parasitik dengan protagonis perempuan, Maya, dilengkapi simulator bertahan hidup interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
